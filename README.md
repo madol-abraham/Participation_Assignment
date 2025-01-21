@@ -1,10 +1,10 @@
-# Participation_Assignment ( Neural Network Assignment)
+# Participation_Assignment ( Neural Network )
 
 ## Objective
 Build, compile, and train a neural network using TensorFlow.
 
 ## Dataset
-- **Dataset Used**: MNIST (or specify your dataset here)
+- **Dataset Used**: MNIST
 - **Preprocessing**:
   - Features (X): Normalized to values between 0 and 1.
   - Labels (Y): One-hot encoded for multi-class classification.
@@ -25,9 +25,9 @@ Build, compile, and train a neural network using TensorFlow.
 - Predictions were made on test data to demonstrate its functionality.
 
 ## Proof of Participation
-- **GitHub Repository Link**: [https://github.com/madol-abraham/Participation_Assignment.git]
-- **Colab Version History Screenshot**: Available in the repository under `/screenshots`.
+- **GitHub Repository Link**: https://github.com/madol-abraham/Participation_Assignment.git
+- **Colab Version History Screenshot**: Available in the project repository (Contributors and commits are proof).
 
 ## Contributors
-1. [Madol Abraham Kuol Madol]  
-2. [Geu Aguto Garang Bior]
+1. Madol Abraham Kuol Madol
+2. Geu Aguto Garang Bior
