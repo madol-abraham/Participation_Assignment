@@ -26,7 +26,7 @@ Build, compile, and train a neural network using TensorFlow.
 
 ## Proof of Participation
 - **GitHub Repository Link**: https://github.com/madol-abraham/Participation_Assignment.git
-- **Colab Verison**: Available in the project repository (Contributors and commits are proof).
+- **Colab version history screenshot**: ![Image](https://github.com/user-attachments/assets/7e2ef952-db5b-49d3-b3f3-86b1e82cbf01).
 
 ## Contributors
 1. Madol Abraham Kuol Madol
